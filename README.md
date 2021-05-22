@@ -1,2 +1,2 @@
 # cookie-clicker-basic-autoclicker
-auto clicker for cookie clicker
+const autoClicker=setInterval(Game.ClickCookie, 1);
